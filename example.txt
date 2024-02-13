@@ -1,0 +1,7 @@
+
+ npm command: 
+Npm init -y npm init  npm adduser
+Npm login
+npm publish --access public
+Nom publish   package.json gives it info about the project and dependencies in it  
+
